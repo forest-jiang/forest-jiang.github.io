@@ -3,8 +3,8 @@
 1. Usually refers to accomplishment for spiritual practices.
 指修行上的成就
 
-- Chinese: 成就
-- Tibetan: དངོས་གྲུབ་
+- Chinese: [成就](lk)
+- Tibetan: [དངོས་གྲུབ་](lk)
 
 See also: siddhi, 悉地
 
